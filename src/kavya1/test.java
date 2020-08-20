@@ -7,6 +7,7 @@ public class test {
 			System.out.println("hello");
 		System.out.println("selenium");
 		System.out.println("java");
+		System.out.println("java selenium");
 	}
 
 }
